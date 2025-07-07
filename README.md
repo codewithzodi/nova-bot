@@ -26,7 +26,7 @@ Welcome to **NovaBot** – your all-in-one, AI-powered Telegram group assistant!
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/yourusername/nova-bot.git
+   git clone https://github.com/codewithzodi/nova-bot.git
    cd nova-bot
    ```
 2. **Install dependencies:**
