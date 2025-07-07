@@ -71,7 +71,8 @@ NovaBot is open to contributions! Feel free to fork, submit pull requests, or su
 ---
 
 ## 👨‍💻 Developer Credits
-- **Project Lead:** @codewithzodi
+- **Project Lead:** [@CodeWithZodi](https://github.com/codewithzodi)
+📩 mailzodibhai@gmail.com
 - **Contributors:** NONE RIGHT NOW
 
 ---
